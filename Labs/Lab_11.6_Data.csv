@@ -1,0 +1,101 @@
+Transaction_ID,Transaction_Date,Cardholder_Name,Department,Merchant_Name,Expense_Category,MCC,Amount_USD,Approval_Status
+TXN-3E3E181C,2026-02-11,David Lee,College of Engineering,Fisher Scientific,Lab Supplies,5047,1347.71,Approved
+TXN-ACE72C04,2025-09-27,Dr. Alice Smith,Computer Science Dept,Campus Catering Co.,Food & Catering,5812,270.84,Approved
+TXN-E383182C,2025-10-26,David Lee,Department of Psychology,Staples,Office Supplies,5943,258.04,Pending Review
+TXN-99ED6EBF,2026-01-29,Liam Neeson,Facilities & Operations,Dell Technologies,IT & Software,5734,1932.44,Approved
+TXN-12D1404E,2025-11-27,Bob Johnson,Computer Science Dept,Apple Store,IT & Software,5734,655.77,Approved
+TXN-A6A93EAF,2025-12-07,Mia Thermopolis,Department of Biology,Sigma-Aldrich,Lab Supplies,5047,1533.12,Approved
+TXN-33E1A231,2025-12-27,Bob Johnson,School of Nursing,Home Depot,Facilities & Maintenance,5211,438.24,Pending Review
+TXN-8FBDE0A3,2025-11-15,Dr. Alice Smith,Department of Chemistry,Dominos Pizza,Food & Catering,5812,265.09,Approved
+TXN-5C3D75F1,2025-11-14,Elena Rostova,Department of Psychology,VWR International,Lab Supplies,5047,1566.35,Pending Review
+TXN-2C089565,2026-02-10,Karen Page,Athletics Department,Apple Store,IT & Software,5734,1019.56,Approved
+TXN-02A906FE,2026-02-27,Irene Adler,Department of Chemistry,Campus Catering Co.,Food & Catering,5812,278.99,Approved
+TXN-EDB041C7,2025-10-12,Karen Page,University Library,Uber Enterprise,Travel & Transport,4511,378.69,Approved
+TXN-237F4002,2025-09-15,Elena Rostova,Computer Science Dept,Staples,Office Supplies,5943,364.71,Pending Review
+TXN-41AF1491,2025-10-25,Grace Hopper,Department of Psychology,Lowe's Hardware,Facilities & Maintenance,5211,105.52,Pending Review
+TXN-4494E6DA,2025-10-07,Liam Neeson,Administrative Services,Apple Store,IT & Software,5734,729.33,Approved
+TXN-9B04DDA5,2025-12-19,Irene Adler,Department of Psychology,Fastenal,Facilities & Maintenance,5211,170.87,Approved
+TXN-9CC85A93,2025-09-24,Mia Thermopolis,Facilities & Operations,Fisher Scientific,Lab Supplies,5047,317.47,Approved
+TXN-FCF4EE6A,2026-01-31,Irene Adler,Athletics Department,Bio-Rad Laboratories,Lab Supplies,5047,717.83,Pending Review
+TXN-E3B2ED30,2026-01-20,Mia Thermopolis,University Library,Fisher Scientific,Lab Supplies,5047,1242.99,Approved
+TXN-2359841D,2025-09-29,Liam Neeson,Athletics Department,Adobe Systems,IT & Software,5734,521.51,Approved
+TXN-1D88C3D6,2026-01-07,Noah Bennett,School of Nursing,Staples,Office Supplies,5943,393.35,Approved
+TXN-5883F385,2026-02-03,Irene Adler,School of Nursing,Office Depot,Office Supplies,5943,176.09,Approved
+TXN-AFE75A6F,2025-09-01,Olivia Benson,University Library,Lowe's Hardware,Facilities & Maintenance,5211,226.26,Approved
+TXN-39EE2E6E,2025-11-18,Bob Johnson,Department of Psychology,Staples,Office Supplies,5943,117.88,Approved
+TXN-72F7D1D7,2025-09-18,Irene Adler,College of Engineering,Grainger Industrial,Facilities & Maintenance,5211,68.67,Pending Review
+TXN-5A463C73,2025-11-07,Liam Neeson,Athletics Department,Fastenal,Facilities & Maintenance,5211,434.41,Approved
+TXN-6CD50305,2025-12-12,Bob Johnson,Department of Chemistry,Dominos Pizza,Food & Catering,5812,204.17,Pending Review
+TXN-E34D40FB,2025-10-28,Jack Shepherd,Department of Chemistry,Sigma-Aldrich,Lab Supplies,5047,86.81,Approved
+TXN-010A543C,2025-09-02,Noah Bennett,University Library,Fisher Scientific,Lab Supplies,5047,450.65,Approved
+TXN-D02EFB9D,2025-09-19,David Lee,School of Nursing,Grainger Industrial,Facilities & Maintenance,5211,134.33,Pending Review
+TXN-48079FD3,2025-10-04,Mia Thermopolis,Facilities & Operations,Local Bistro Catering,Food & Catering,5812,118.81,Pending Review
+TXN-D6FE9162,2025-10-19,Grace Hopper,Facilities & Operations,Fisher Scientific,Lab Supplies,5047,1203.22,Approved
+TXN-904EF9EF,2025-12-29,Dr. Alice Smith,Facilities & Operations,Campus Catering Co.,Food & Catering,5812,307.1,Approved
+TXN-00880203,2025-11-26,Carla Martinez,Facilities & Operations,VWR International,Lab Supplies,5047,385.28,Pending Review
+TXN-FC68873C,2025-10-17,Henry Higgins,School of Nursing,Adobe Systems,IT & Software,5734,736.8,Approved
+TXN-74F8B679,2025-09-26,Carla Martinez,Facilities & Operations,Fisher Scientific,Lab Supplies,5047,1745.74,Approved
+TXN-67B7A1B4,2026-01-03,Carla Martinez,Facilities & Operations,Delta Air Lines,Travel & Transport,4511,1047.73,Approved
+TXN-BFE7C99B,2025-09-01,Elena Rostova,Facilities & Operations,Marriott Hotels,Travel & Transport,4511,1117.33,Pending Review
+TXN-53592EA6,2026-02-26,David Lee,Department of Biology,Local Bistro Catering,Food & Catering,5812,80.22,Approved
+TXN-03139E92,2026-01-27,Dr. Alice Smith,Administrative Services,Campus Catering Co.,Food & Catering,5812,339.74,Approved
+TXN-F560DF80,2026-01-01,Noah Bennett,College of Engineering,Grainger Industrial,Facilities & Maintenance,5211,37.38,Approved
+TXN-A8B89EDB,2025-09-18,Grace Hopper,Computer Science Dept,Home Depot,Facilities & Maintenance,5211,307.91,Approved
+TXN-1AC3038D,2026-01-24,Karen Page,Administrative Services,Staples,Office Supplies,5943,283.48,Pending Review
+TXN-5FE898B7,2026-01-23,Karen Page,University Library,Lowe's Hardware,Facilities & Maintenance,5211,421.43,Approved
+TXN-7F338273,2025-11-01,Henry Higgins,University Library,Adobe Systems,IT & Software,5734,457.43,Approved
+TXN-15D08210,2025-09-19,Bob Johnson,School of Nursing,Bio-Rad Laboratories,Lab Supplies,5047,1137.03,Approved
+TXN-19B1E3CD,2025-10-25,Olivia Benson,Computer Science Dept,Lowe's Hardware,Facilities & Maintenance,5211,70.45,Approved
+TXN-CD9FBA86,2025-11-02,Jack Shepherd,School of Nursing,GitHub Inc.,IT & Software,5734,520.55,Approved
+TXN-182DF6E2,2025-09-03,Olivia Benson,College of Engineering,Dominos Pizza,Food & Catering,5812,420.14,Approved
+TXN-FFB79827,2025-11-07,Elena Rostova,Athletics Department,Fisher Scientific,Lab Supplies,5047,1349.23,Approved
+TXN-6CE8CFAE,2026-02-02,Irene Adler,Department of Psychology,Amazon Business,Office Supplies,5943,101.57,Approved
+TXN-847E99A2,2025-11-04,Dr. Alice Smith,Department of Biology,Fisher Scientific,Lab Supplies,5047,1160.0,Approved
+TXN-EF354B72,2025-11-25,Irene Adler,Facilities & Operations,Amazon Business,Office Supplies,5943,83.19,Pending Review
+TXN-ED57508D,2026-01-22,Irene Adler,Department of Biology,Fisher Scientific,Lab Supplies,5047,181.68,Approved
+TXN-D5913EBE,2025-12-04,Elena Rostova,University Library,Grainger Industrial,Facilities & Maintenance,5211,200.53,Approved
+TXN-F67D3C74,2025-09-11,Frank Wright,School of Nursing,Apple Store,IT & Software,5734,1752.17,Approved
+TXN-8E2C0205,2025-12-14,Noah Bennett,College of Engineering,Grainger Industrial,Facilities & Maintenance,5211,417.52,Approved
+TXN-E328F13A,2025-10-16,Mia Thermopolis,Facilities & Operations,Southwest Airlines,Travel & Transport,4511,276.78,Approved
+TXN-ABD3A449,2026-02-19,Grace Hopper,Department of Biology,Panera Bread,Food & Catering,5812,129.23,Approved
+TXN-48580F9B,2025-12-30,Frank Wright,Athletics Department,Office Depot,Office Supplies,5943,369.76,Pending Review
+TXN-C9581D44,2025-10-29,Frank Wright,Athletics Department,Staples,Office Supplies,5943,301.26,Pending Review
+TXN-E6551E77,2025-09-18,Karen Page,School of Nursing,GitHub Inc.,IT & Software,5734,1656.84,Pending Review
+TXN-9B8D5405,2025-11-24,Carla Martinez,Administrative Services,Fisher Scientific,Lab Supplies,5047,1584.82,Approved
+TXN-621E2C93,2025-11-07,Liam Neeson,University Library,Fisher Scientific,Lab Supplies,5047,1094.0,Approved
+TXN-7C401E31,2025-12-21,Elena Rostova,Department of Biology,Home Depot,Facilities & Maintenance,5211,181.02,Approved
+TXN-753D2BAC,2026-03-01,Frank Wright,Facilities & Operations,Southwest Airlines,Travel & Transport,4511,659.91,Approved
+TXN-A49B706C,2025-09-18,Liam Neeson,Athletics Department,Dominos Pizza,Food & Catering,5812,285.13,Approved
+TXN-58F6AE41,2026-01-08,Irene Adler,College of Engineering,Adobe Systems,IT & Software,5734,916.2,Approved
+TXN-477E8EED,2025-10-20,Jack Shepherd,Administrative Services,Uber Enterprise,Travel & Transport,4511,836.98,Approved
+TXN-09EA96F6,2025-11-17,Elena Rostova,Department of Chemistry,Enterprise Rent-A-Car,Travel & Transport,4511,1012.94,Approved
+TXN-12199E67,2025-12-20,Karen Page,Department of Chemistry,Lowe's Hardware,Facilities & Maintenance,5211,215.93,Pending Review
+TXN-A6A62280,2026-01-09,Irene Adler,Administrative Services,Delta Air Lines,Travel & Transport,4511,816.21,Approved
+TXN-977743FA,2025-11-25,Mia Thermopolis,Department of Chemistry,VWR International,Lab Supplies,5047,1227.39,Approved
+TXN-783A46D9,2025-10-08,Jack Shepherd,Computer Science Dept,Fisher Scientific,Lab Supplies,5047,478.47,Pending Review
+TXN-A5601893,2025-12-26,Henry Higgins,Facilities & Operations,Enterprise Rent-A-Car,Travel & Transport,4511,293.74,Pending Review
+TXN-17EE2296,2025-11-02,Mia Thermopolis,Facilities & Operations,Staples,Office Supplies,5943,403.04,Approved
+TXN-C1A28574,2025-10-27,Olivia Benson,Computer Science Dept,CDW Government,Office Supplies,5943,34.47,Approved
+TXN-A83787C3,2025-12-26,Mia Thermopolis,Department of Psychology,CDW Government,Office Supplies,5943,304.57,Approved
+TXN-271EBC21,2026-02-04,Olivia Benson,College of Engineering,Local Bistro Catering,Food & Catering,5812,375.87,Pending Review
+TXN-6B679D34,2025-12-31,Mia Thermopolis,School of Nursing,Marriott Hotels,Travel & Transport,4511,920.75,Approved
+TXN-C2486DD9,2026-01-03,Liam Neeson,Athletics Department,Panera Bread,Food & Catering,5812,132.64,Approved
+TXN-2991346E,2025-10-31,Carla Martinez,College of Engineering,GitHub Inc.,IT & Software,5734,901.0,Approved
+TXN-78ED9182,2025-10-30,Grace Hopper,Facilities & Operations,Delta Air Lines,Travel & Transport,4511,869.72,Approved
+TXN-F53AE457,2025-11-24,Noah Bennett,Facilities & Operations,Fastenal,Facilities & Maintenance,5211,194.4,Approved
+TXN-2C52CB3B,2025-12-09,Henry Higgins,Department of Biology,Home Depot,Facilities & Maintenance,5211,387.32,Pending Review
+TXN-D4F381CE,2025-11-30,Irene Adler,School of Nursing,Adobe Systems,IT & Software,5734,2154.75,Flagged for Audit
+TXN-AFBC3194,2026-02-02,Henry Higgins,Department of Biology,CDW Government,Office Supplies,5943,108.5,Pending Review
+TXN-107820E8,2025-12-09,Olivia Benson,College of Engineering,Adobe Systems,IT & Software,5734,1851.1,Pending Review
+TXN-8DC1530B,2026-02-07,Bob Johnson,Facilities & Operations,Home Depot,Facilities & Maintenance,5211,409.28,Approved
+TXN-44A345CA,2025-10-05,Frank Wright,Department of Chemistry,Delta Air Lines,Travel & Transport,4511,131.57,Pending Review
+TXN-62D57B34,2025-12-26,Elena Rostova,Facilities & Operations,GitHub Inc.,IT & Software,5734,1938.13,Pending Review
+TXN-DACBDB67,2025-11-04,Frank Wright,Department of Chemistry,Bio-Rad Laboratories,Lab Supplies,5047,83.92,Approved
+TXN-6D5AFFB4,2026-02-14,David Lee,Department of Biology,Fisher Scientific,Lab Supplies,5047,1369.91,Approved
+TXN-B9242F36,2026-02-07,Jack Shepherd,Department of Chemistry,Office Depot,Office Supplies,5943,67.72,Approved
+TXN-E61542D0,2025-12-29,Jack Shepherd,Administrative Services,Dominos Pizza,Food & Catering,5812,348.02,Approved
+TXN-A300F4D5,2025-09-30,Olivia Benson,Athletics Department,Amazon Business,Office Supplies,5943,59.79,Approved
+TXN-442D488B,2026-01-26,Bob Johnson,Administrative Services,Local Bistro Catering,Food & Catering,5812,186.04,Approved
+TXN-F68AE390,2026-02-24,Noah Bennett,Administrative Services,Panera Bread,Food & Catering,5812,57.08,Approved
+TXN-33DC315B,2025-10-01,Karen Page,University Library,Home Depot,Facilities & Maintenance,5211,164.4,Pending Review
+TXN-E4EBAC52,2025-09-18,Noah Bennett,Department of Psychology,Lowe's Hardware,Facilities & Maintenance,5211,18.04,Pending Review
